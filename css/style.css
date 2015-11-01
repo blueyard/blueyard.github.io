@@ -46,6 +46,11 @@ body {
 	width: 165px;
 }
 
+.universe {
+	margin-top: .5em;
+	width: 20px;
+}
+
 p {
 	margin-bottom: 1.2em;
 	font-weight: normal;
@@ -78,28 +83,29 @@ a:hover {
 /* Mobile */
 @media (max-width: 640px) and (min-width: 481px) {  
   
+  
 
 }
 
 /* Mobile */
 @media (max-width: 480px) and (min-width: 0px) {  
   
-  body {
-  	font-size: 17px;
-  	line-height: 1.4;
-  }
+  	body {
+  		font-size: 15px;
+  		line-height: 1.4;
+  	}
   
-  .logo {
-  	width: 120px;
-  }
+  	.logo {
+  		width: 120px;
+  	}
   
-  a {
-  	text-decoration: none;
-  	border-bottom: 1.5px solid;
-  }
+  	a {
+  		text-decoration: none;
+  		border-bottom: 1.5px solid;
+ 	}
   
-  a:hover {
-  	border: none;
-  }
+  	a:hover {
+  		border: none;
+  	}
   
 }
