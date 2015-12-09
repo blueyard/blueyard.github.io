@@ -16,10 +16,10 @@ body {
 	-ms-font-feature-settings: "kern" 1, "liga" 1;
 	-o-font-feature-settings: "kern" 1, "liga" 1;
 	
-	font-size: 22px;
+	font-size: 20px;
 	line-height: 1.4;
-	color: #717171;
-	background-color: #fafafa;
+	color: #696969;
+	background-color: #fff;
 }
 
 .blue {
@@ -43,7 +43,7 @@ body {
 }
 
 .logo {
-	width: 165px;
+	width: 150px;
 }
 
 .universe {
@@ -91,7 +91,7 @@ a:hover {
 @media (max-width: 480px) and (min-width: 0px) {  
   
   	body {
-  		font-size: 15px;
+  		font-size: 17px;
   		line-height: 1.4;
   	}
   
