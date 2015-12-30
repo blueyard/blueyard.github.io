@@ -67,7 +67,7 @@ body {
 
 h4 {
 	color: #0011F2;
-	font-size: .4em;
+	font-size: .7em;
 	letter-spacing: 0;
 	margin: 0 auto .5em auto;
 }
@@ -75,6 +75,8 @@ h4 {
 p {
 	margin-bottom: 1.2em;
 	font-weight: normal;
+	font-size: 10px;
+
 }
 
 a {
