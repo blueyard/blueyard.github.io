@@ -53,18 +53,6 @@ body {
 	padding-bottom: 1em;
 }
 
-.impressum {
-	font-size: .4em;
-}
-
-.impressum a {
-	color: #cccccc;
-}
-
-.impressum a:hover {
-	border-bottom: 1px solid;	
-}
-
 h4 {
 	color: #0011F2;
 	font-size: .7em;
@@ -85,6 +73,24 @@ a {
 
 a:hover {
 	border-bottom: 2px solid;
+}
+
+.impressum a {
+	font-size: .4em;
+	color: #cccccc;
+}
+
+.impressum a:hover {
+	border-bottom: 1px solid;	
+}
+
+.impressum p {
+	font-size: .8em;
+}
+
+.impressum h4 {
+	font-size: .6em;
+	letter-spacing: 0;
 }
 
 /* Media Queries */
